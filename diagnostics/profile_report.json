@@ -1,0 +1,271 @@
+{
+  "files": {
+    "monthly_rainfall_distwise_1901-2017_data.csv": {
+      "found": true,
+      "shape": [
+        4088,
+        19
+      ],
+      "columns": [
+        "SUBDIVISION",
+        "YEAR",
+        "JAN",
+        "FEB",
+        "MAR",
+        "APR",
+        "MAY",
+        "JUN",
+        "JUL",
+        "AUG",
+        "SEP",
+        "OCT",
+        "NOV",
+        "DEC",
+        "ANNUAL",
+        "JF",
+        "MAM",
+        "JJAS",
+        "OND"
+      ],
+      "sample_head": [
+        {
+          "SUBDIVISION": "Andaman & Nicobar Islands",
+          "YEAR": 2006,
+          "JAN": 16.3,
+          "FEB": 14.4,
+          "MAR": 48.9,
+          "APR": 163.7,
+          "MAY": 321.4,
+          "JUN": 366.0,
+          "JUL": 182.7,
+          "AUG": 219.6,
+          "SEP": 546.5,
+          "OCT": 374.7,
+          "NOV": 76.1,
+          "DEC": 74.4,
+          "ANNUAL": 2404.7,
+          "JF": 30.7,
+          "MAM": 534.0,
+          "JJAS": 1314.9,
+          "OND": 525.2
+        },
+        {
+          "SUBDIVISION": "Andaman & Nicobar Islands",
+          "YEAR": 2007,
+          "JAN": 4.9,
+          "FEB": 1.6,
+          "MAR": 5.0,
+          "APR": 54.6,
+          "MAY": 370.0,
+          "JUN": 378.3,
+          "JUL": 463.2,
+          "AUG": 465.3,
+          "SEP": 486.4,
+          "OCT": 209.4,
+          "NOV": 223.9,
+          "DEC": 85.6,
+          "ANNUAL": 2748.0,
+          "JF": 6.5,
+          "MAM": 429.6,
+          "JJAS": 1793.1,
+          "OND": 518.9
+        },
+        {
+          "SUBDIVISION": "Andaman & Nicobar Islands",
+          "YEAR": 2008,
+          "JAN": 9.9,
+          "FEB": 67.7,
+          "MAR": 115.8,
+          "APR": 216.1,
+          "MAY": 545.5,
+          "JUN": 457.8,
+          "JUL": 511.2,
+          "AUG": 482.1,
+          "SEP": 332.0,
+          "OCT": 243.7,
+          "NOV": 321.1,
+          "DEC": 72.0,
+          "ANNUAL": 3374.8,
+          "JF": 77.6,
+          "MAM": 877.3,
+          "JJAS": 1783.1,
+          "OND": 636.8
+        }
+      ],
+      "year_col": "YEAR",
+      "years_min_max": [
+        1901,
+        2017
+      ]
+    },
+    "district_rainfall_by_api.csv": {
+      "found": true,
+      "shape": [
+        5000,
+        7
+      ],
+      "columns": [
+        "State",
+        "District",
+        "Date",
+        "Year",
+        "Month",
+        "Avg_rainfall",
+        "Agency_name"
+      ],
+      "sample_head": [
+        {
+          "State": "Assam",
+          "District": "Barpeta",
+          "Date": "2018-09-29",
+          "Year": 2018,
+          "Month": 9,
+          "Avg_rainfall": 12.30139597,
+          "Agency_name": "NRSC VIC MODEL"
+        },
+        {
+          "State": "Assam",
+          "District": "Barpeta",
+          "Date": "2018-10-07",
+          "Year": 2018,
+          "Month": 10,
+          "Avg_rainfall": 0.0,
+          "Agency_name": "NRSC VIC MODEL"
+        },
+        {
+          "State": "Assam",
+          "District": "Barpeta",
+          "Date": "2018-10-13",
+          "Year": 2018,
+          "Month": 10,
+          "Avg_rainfall": 0.0,
+          "Agency_name": "NRSC VIC MODEL"
+        }
+      ],
+      "year_col": "Year",
+      "years_min_max": [
+        2018,
+        2019
+      ]
+    },
+    "season_crop_prod_1997_dist.csv": {
+      "found": true,
+      "shape": [
+        152122,
+        7
+      ],
+      "columns": [
+        "State_Name",
+        "District_Name",
+        "Crop_Year",
+        "Season",
+        "Crop",
+        "Area",
+        "Production"
+      ],
+      "sample_head": [
+        {
+          "State_Name": "Andaman and Nicobar Islands",
+          "District_Name": "NORTH AND MIDDLE ANDAMAN",
+          "Crop_Year": 2006,
+          "Season": "Whole Year",
+          "Crop": "Banana",
+          "Area": 957.57,
+          "Production": 8582.0
+        },
+        {
+          "State_Name": "Andaman and Nicobar Islands",
+          "District_Name": "NORTH AND MIDDLE ANDAMAN",
+          "Crop_Year": 2006,
+          "Season": "Whole Year",
+          "Crop": "Black pepper",
+          "Area": 175.0,
+          "Production": 191.14
+        },
+        {
+          "State_Name": "Andaman and Nicobar Islands",
+          "District_Name": "NORTH AND MIDDLE ANDAMAN",
+          "Crop_Year": 2006,
+          "Season": "Whole Year",
+          "Crop": "Cashewnut",
+          "Area": 40.5,
+          "Production": 44.0
+        }
+      ],
+      "year_col": "Crop_Year",
+      "years_min_max": [
+        2004,
+        2015
+      ]
+    },
+    "production_crops_19-20_him.csv": {
+      "found": true,
+      "shape": [
+        13,
+        13
+      ],
+      "columns": [
+        "State",
+        "District",
+        "Wheat ( in Metric Tonnes)",
+        "Maize ( in Metric Tonnes)",
+        "Rice ( in Metric Tonnes)",
+        "Barley ( in Metric Tonnes)",
+        "Ragi ( in Metric Tonnes)",
+        "Pulses ( in Metric Tonnes)",
+        "Common millets ( in Metric Tonnes)",
+        "Total Food grains ( in Metric Tonnes)",
+        "Chillies ( in Metric Tonnes)",
+        "Ginger ( in Metric Tonnes)",
+        "Oil  seeds ( in Metric Tonnes)"
+      ],
+      "sample_head": [
+        {
+          "State": "Himachal Pradesh",
+          "District": "Bilaspur",
+          "Wheat ( in Metric Tonnes)": 48096,
+          "Maize ( in Metric Tonnes)": 54634,
+          "Rice ( in Metric Tonnes)": 2851,
+          "Barley ( in Metric Tonnes)": 231,
+          "Ragi ( in Metric Tonnes)": 6,
+          "Pulses ( in Metric Tonnes)": 141,
+          "Common millets ( in Metric Tonnes)": 0,
+          "Total Food grains ( in Metric Tonnes)": 105959,
+          "Chillies ( in Metric Tonnes)": 2,
+          "Ginger ( in Metric Tonnes)": 361,
+          "Oil  seeds ( in Metric Tonnes)": 159
+        },
+        {
+          "State": "Himachal Pradesh",
+          "District": "Chamba",
+          "Wheat ( in Metric Tonnes)": 41545,
+          "Maize ( in Metric Tonnes)": 68768,
+          "Rice ( in Metric Tonnes)": 4485,
+          "Barley ( in Metric Tonnes)": 7726,
+          "Ragi ( in Metric Tonnes)": 22,
+          "Pulses ( in Metric Tonnes)": 8227,
+          "Common millets ( in Metric Tonnes)": 1029,
+          "Total Food grains ( in Metric Tonnes)": 131802,
+          "Chillies ( in Metric Tonnes)": 21,
+          "Ginger ( in Metric Tonnes)": 15,
+          "Oil  seeds ( in Metric Tonnes)": 1176
+        },
+        {
+          "State": "Himachal Pradesh",
+          "District": "Hamirpur",
+          "Wheat ( in Metric Tonnes)": 58886,
+          "Maize ( in Metric Tonnes)": 88041,
+          "Rice ( in Metric Tonnes)": 2907,
+          "Barley ( in Metric Tonnes)": 167,
+          "Ragi ( in Metric Tonnes)": 0,
+          "Pulses ( in Metric Tonnes)": 34,
+          "Common millets ( in Metric Tonnes)": 0,
+          "Total Food grains ( in Metric Tonnes)": 150035,
+          "Chillies ( in Metric Tonnes)": 5,
+          "Ginger ( in Metric Tonnes)": 30,
+          "Oil  seeds ( in Metric Tonnes)": 33
+        }
+      ]
+    }
+  }
+}

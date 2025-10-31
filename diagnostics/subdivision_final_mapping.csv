@@ -1,0 +1,37 @@
+SUBDIVISION,MAPPED_STATES,METHOD,SCORE
+Andaman & Nicobar Islands,Andaman and Nicobar Islands,manual,100
+Arunachal Pradesh,Arunachal Pradesh,exact,100
+Assam & Meghalaya,"Assam, Meghalaya",manual,100
+Bihar,Bihar,exact,100
+Chhattisgarh,Chhattisgarh,exact,100
+Coastal Andhra Pradesh,Andhra Pradesh,manual,100
+Coastal Karnataka,Karnataka,manual,100
+East Madhya Pradesh,Madhya Pradesh,manual,100
+East Rajasthan,Rajasthan,manual,100
+East Uttar Pradesh,Uttar Pradesh,manual,100
+Gangetic West Bengal,West Bengal,manual,100
+Gujarat Region,Gujarat,manual,100
+Haryana Delhi & Chandigarh,Chandigarh,split_fuzzy,55
+Himachal Pradesh,Himachal Pradesh,exact,100
+Jammu & Kashmir,Jammu and Kashmir,manual,100
+Jharkhand,Jharkhand,exact,100
+Kerala,Kerala,exact,100
+Konkan & Goa,"Goa, Maharashtra",manual,100
+Lakshadweep,Lakshadweep,exact,100
+Madhya Maharashtra,Maharashtra,manual,100
+Matathwada,Maharashtra,manual,100
+Naga Mani Mizo Tripura,"Nagaland, Manipur, Mizoram, Tripura",manual,100
+North Interior Karnataka,Karnataka,manual,100
+Orissa,Odisha,manual,100
+Punjab,Punjab,exact,100
+Rayalseema,Andhra Pradesh,manual,100
+Saurashtra & Kutch,Gujarat,manual,100
+South Interior Karnataka,Karnataka,manual,100
+Sub Himalayan West Bengal & Sikkim,"West Bengal, Sikkim",manual,100
+Tamil Nadu,Tamil Nadu,exact,100
+Telangana,Telangana,exact,100
+Uttarakhand,Uttarakhand,exact,100
+Vidarbha,Maharashtra,manual,100
+West Madhya Pradesh,Madhya Pradesh,manual,100
+West Rajasthan,Rajasthan,manual,100
+West Uttar Pradesh,Uttar Pradesh,manual,100

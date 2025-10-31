@@ -1,0 +1,38 @@
+google-ai-generativelanguage==0.6.15
+google-api-core==2.28.1
+google-api-python-client==2.185.0
+google-auth==2.4.2
+google-auth-httplib2==0.3.1
+google-generativeai==1.4.7
+google-generativeai==0.8.5
+openai==2.6.1
+# Core data & DB
+pandas>=2.0
+pyarrow>=9.0
+duckdb>=1.4
+
+# Fuzzy matching / string matching
+RapidFuzz>=3.14
+
+# Statistics & analytics
+numpy>=1.23
+scipy>=1.10
+statsmodels>=0.14
+
+# Plotting / viz
+matplotlib>=3.5
+seaborn>=0.12
+
+# Web & UI
+streamlit>=1.18
+fastapi>=0.95
+uvicorn>=0.22
+
+# LLM / HTTP / auth
+requests>=2.28
+python-dotenv>=1.0
+google-genai>=0.6.0
+
+# Utilities
+python-dateutil>=2.8
+pyyaml>=6.0
